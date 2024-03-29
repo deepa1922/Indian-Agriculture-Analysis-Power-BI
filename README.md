@@ -12,8 +12,13 @@ This project, part of my Mentorness internship, aims to analyzed Indian agricult
 ## 📌Tools Used
 - Power BI for data visualization and interactive dashboards.
 
+## Live Dashboard : 
+   https://www.novypro.com/project/indian-agriculture-analysis-power-bi-1
+   
 ## Presentation link : 
   https://drive.google.com/file/d/1HUQuPQx_XzCIm2YfTZzGcfq8zZuITElz/view?usp=sharing
+
+
 
   
 
